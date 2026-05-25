@@ -1,12 +1,4 @@
 {
-    "PSD-0001": {
-        "message_id": 1508532671251480658,
-        "channel_id": 1508532271433383999,
-        "investigator": 990938469499027457,
-        "details": "<your details here>",
-        "status": "Open",
-        "opened_at": "2026-05-25T18:10:18.023153"
-    },
     "PSD-0002": {
         "message_id": 1508533006938275934,
         "channel_id": 1508532271433383999,
@@ -14,21 +6,5 @@
         "details": "**Incident Summary:**\n- 1 male suspect armed with a handgun\n- Took 1 hostage\n- Suspect fled the scene on foot after confrontation\n- Officer involved discharged their firearm\n- Case Reference: TRJ-51\n\nAdditional Notes: N/A",
         "status": "Cancelled",
         "opened_at": "2026-05-25T18:11:38.030049"
-    },
-    "PSD-0003": {
-        "message_id": 1508536870014029915,
-        "channel_id": 1508532271433383999,
-        "investigator": 990938469499027457,
-        "details": "Test.",
-        "status": "Open",
-        "opened_at": "2026-05-25T18:26:58.935854"
-    },
-    "PSD-0004": {
-        "message_id": 1508536976641622168,
-        "channel_id": 1508532271433383999,
-        "investigator": 990938469499027457,
-        "details": "Test.",
-        "status": "Open",
-        "opened_at": "2026-05-25T18:27:26.197068"
     }
 }
