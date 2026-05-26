@@ -1,6 +1,6 @@
-app = "mrcpsbot"  # You can change this name
+app = "mrcpsbot"   # Change this if your app name is different
 
 [env]
   PYTHONUNBUFFERED = "1"
 
-# No services needed for Discord bots
+# No services section = no health checks = works for bots
